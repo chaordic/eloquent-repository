@@ -6,7 +6,7 @@ Not need Laravel for use.
 ## Install
 
 With Composer:
-`composer install janez89/repository`
+`composer install linx/eloquent-repository`
 
 ## Usage
 
