@@ -5,9 +5,9 @@
     "keywords": ["laravel", "lumen", "repository", "pattern"],
     "require": {
         "php": ">=5.5.9",
-        "illuminate/config": "~5.4|~6.0|~8.0",
-        "illuminate/support": "~5.4|~6.0|~8.0",
-        "illuminate/database": "~5.4|~6.0|~8.0"
+        "illuminate/config": "~5.4|~6.0|~8.0|~9.0",
+        "illuminate/support": "~5.4|~6.0|~8.0|~9.0",
+        "illuminate/database": "~5.4|~6.0|~8.0|~9.0"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
